@@ -18,3 +18,5 @@
  
  3.2 查JDK目录
  > ls -l /etc/alternatives/java
+
+![](https://github.com/Bert-King/Advanced/blob/main/%E6%9F%A5%E7%9C%8BJDK%E6%93%8D%E4%BD%9C.png)
